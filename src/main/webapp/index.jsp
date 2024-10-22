@@ -8,6 +8,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
         <h1 style="color: green; font-size: 40px;" align="center">WE ARE Done with CI/CD</h1>
         <h1 style="color: blue; font-size: 40px;" align="center">I have been successfully deployed an application</h1>	
+        <h1 style="color: grey; font-size: 70px;" align="center">Srinu Surarapu</h1>	
       	
 	
 	
